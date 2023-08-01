@@ -7,6 +7,7 @@ attrs==23.1.0
 autopep8==2.0.1
 backoff==2.2.1
 black==23.3.0
+bleach==6.0.0
 blinker==1.6.2
 cachetools==5.3.1
 certifi==2023.5.7
@@ -21,6 +22,7 @@ distlib==0.3.6
 dj-database-url==0.5.0
 dj3-cloudinary-storage==0.0.6
 Django==3.2.20
+django-summernote==0.8.20.0
 filelock==3.12.2
 Flask==2.3.2
 frozenlist==1.4.0
@@ -82,6 +84,7 @@ typing-inspect==0.9.0
 typing_extensions==4.7.1
 urllib3==1.26.15
 virtualenv==20.23.1
+webencodings==0.5.1
 Werkzeug==2.3.6
 wrapt==1.15.0
 yarl==1.9.2
